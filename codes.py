@@ -8,6 +8,7 @@ print("Start")
 print("ppppp")
 if(hasil<100) :
     print("Hasil Kurang dari Seratus")
+    print("Terima kasih")
 if(hasil>100) :
     print("Hasil Lebih dari Seratus")
 #=======
